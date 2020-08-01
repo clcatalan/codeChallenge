@@ -1,5 +1,4 @@
 import { game } from './App'
-/* eslint-env mocha */
 
 test('Expect game to return correct return values according to passed arguments', () => {
   const NoArgsGame = game()
